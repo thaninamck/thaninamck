@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Nina</h1>
 <p>Hi, I'm Nina — a passionate fullstack web developer and software engineer. I learn quickly and love collaborating, even on topics I'm not familiar with — just give me the documentation, and I’ll figure it out!</p>
-[my portfolio](https://ninack-dev.netlify.app/)
+<a href="https://ninack-dev.netlify.app/">my portfolio</a>
 
 
 <h2>🚀 Languages and Tools I Use</h2>
